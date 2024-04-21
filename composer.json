@@ -1,0 +1,19 @@
+{
+    "name": "davixxxvii/miniframework",
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Luciano",
+            "email": "davixxxvii@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "/App",
+            "MF\\": "verndor/MF/"
+        }
+    }
+    
+}
